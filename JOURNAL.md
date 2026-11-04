@@ -14,12 +14,18 @@
 
 ## Contents
 
-1. [2026-11-04: Work session](#2026-11-04-work-session)
+1. [2026-11-04: I'm not going to make a 3-D mouse, I won't try new things o(╥﹏╥)](#2026-11-04-im-not-going-to-make-a-3-d-mouse-i-wont-try-new-t)
 
 ## Design
 
-### 2026-11-04: Work session
+### 2026-11-04: I'm not going to make a 3-D mouse, I won't try new things o(╥﹏╥)
 
 **2.23h**
+
+I'm not going to make a 3-D mouse, I won't try new things o(╥﹏╥)
+
+I was going to, but then I switched to a parametric screw together storage pod, honestly much more useful, and more my speed. I could really use one, new room an all ahaha. Although I spent most of this time working on MULTIPLE different ideas, like a Mandalorian Helmet (•﹏•;)
+
+This is seriously not what I expected, but now that I have a plan, I'm so prepared to lock in, let's go!!
 
 [Timelapse](https://lookout.hackclub.com/api/media/25772988-9154-4970-b289-be4d2e93000d/video.mp4)
