@@ -31,6 +31,7 @@ There are three parts in the whole CAD. The first two parts are the main compart
 
 
 *Total Tax calculated is based off the fact that items that share the same source are put into a cart and then the shipping tax used for those items is combined to minimize cost
+*Choose Global Standard Direct Line when prompted with shipping
 * **Total Tax & Shipping for the whole order:** $4.06
 
 ---
