@@ -1,19 +1,20 @@
 ### **Modular Multi-Part Storage System**
 
---
+---
 
 <img width="1919" height="1031" alt="Screenshot 2026-11-05 004640" src="https://github.com/user-attachments/assets/8628e34b-242a-4930-b740-7bbb8068e68b" />
 
---
+---
+
 This is a 3 piece storage system, entirely inspired by Undertale, just like all my other projects in Halflife ;) I made my first CAD project. As a complete beginner, you'd think it'd be a good idea to go with the Merbl Run thingo but I just could not comprehend a word of that guide lmao (¯﹃¯*) This whole project is exactly how I plan on organizing future hardware tools hehe so much storage yay!(๑>◡<๑)
 
 P.S. Special extreme thanks for the extension, I was so sick and stressed out I'm so grateful (づ๑•ᴗ•๑)づ♡ <(⸝⸝ᵕᴗᵕ⸝⸝<)
 
---
+---
 
 <img width="1916" height="1029" alt="Screenshot 2026-11-05 004713" src="https://github.com/user-attachments/assets/94c82555-a91b-4441-997c-6dd6700a5f32" />
 
---
+---
 
 ### **How it works:**
 
