@@ -36,7 +36,7 @@ There's also a mini case for an OLED screen, the OLED screen will likely be glue
 
 *Total Tax calculated is based off the fact that items that share the same source are put into a cart and then the shipping tax used for those items is combined to minimize cost
 *Choose Global Standard Direct Line when prompted with shipping
-*I will buy the PCB myself
+*I will buy the PCB myself, as well as the microcontroller
 * **Total Tax & Shipping for the whole order:** $4.06
 
 ---
