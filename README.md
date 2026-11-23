@@ -39,7 +39,7 @@ There are three parts in the whole CAD. The first two parts are the main compart
 *I will buy the PCB myself, as well as the microcontroller
 * **Total Tax & Shipping for the whole order:** $6.98
 
-****Total For the whole order:**** $29.29
+****Total For the whole order:**** $22.55
 
 ---
 
