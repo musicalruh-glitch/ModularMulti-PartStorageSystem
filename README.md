@@ -18,9 +18,9 @@ P.S. Special extreme thanks for the extension, I was so sick and stressed out I'
 
 ### **How it works:**
 
-There are three parts in the whole CAD. The first two parts are the main compartment and the lid. I made space in the lid and the main compartment to slide in some magnets, so they click together easy. The main compartment has one middle big compartment to store any and everything, the right compartment on the main compartment can probably store microcontrollers, or mechanical chips, stuff like that. The left compartment can store screws (possibly), and smaller objects. That's it for the star of the show, other than that I made small pencil cubby sorta thing. It's split in half, and has a save point on it from Undertale! Did I mention that the main compartment is shaped like the soul? The save point cubby is for screwdrivers and tools of the sort ahaha. I think I'll just leave it on my desk for whatever honestly.     (⭑•͈ 𓎟 •͈ )
+There are three parts in the whole CAD. The first two parts are the main compartment and the lid. I made space in the lid and the main compartment to slide in some magnets, so they click together easy. The main compartment has one middle big compartment to store any and everything, the right compartment on the main compartment can probably store microcontrollers, or mechanical chips, stuff like that. The left compartment can store screws (possibly), and smaller objects. That's it for the star of the show, other than that I made small pencil cubby sorta thing. It's split in half, and has a save point on it from Undertale! It also has a small cutout for a .91 OLED screen. Did I mention that the main compartment is shaped like the soul? The save point cubby is for screwdrivers and tools of the sort ahaha. I think I'll just leave it on my desk for whatever honestly.     (⭑•͈ 𓎟 •͈ )
 
-There's also a mini case for an OLED screen, the OLED screen will likely be glued to either the SAVE tool holder, or the big soul main compartment. The OLED screen is going to show the time, just a little extra something so I don't lose track of time :)
+
 ---
 
 ### **Modular Multi-Part Storage System (BOM)**
