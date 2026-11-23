@@ -37,7 +37,7 @@ This is seriously not what I expected, but now that I have a plan, I'm so prepar
 
 **2.42h**
 
-Ok I changed the title of the project one last time, but the idea for it is still the same. Honestly, IM STRUGGLING GRAHHH. I got some work done, but this looks nothing like the Merbl Run, and not half as cool, but I'm gonna be honest the Merbl Run guide is harder to follow here. (⇀‸↼‶)
+Ok I changed the title of the project one last time, but the idea for it is still the same. Honestly, IM STRUGGLING GRAHHH. I got some work done, but this looks nothing like the Merbl Run, and not half as cool, but I'm gonna be honest the Merbl Run guide is harder to follow here. (⇀‸↼‶) 
 
 I originally made a hexagon, divided into three and then maybe I would add different compartments from there, but it seemed too simple and honestly ugly ahaha. I tried making another shape that I thought would look better -- THE UNDERTALE HEARTTTT but it ended up being pretty difficult because the shape is pixely and pretty complicated, I tried to extrude cut 3 compartments into the shape instead of using the shell tool, because using it on the Hexagon looked really bad and left gaps IN BETWEEN THE PERIMETERS GRAHHHH, but it didn't work for some reason? I only got two in but it looked incomplete and a waste of space. I think the universe just hates me. (￣□￣)
 
