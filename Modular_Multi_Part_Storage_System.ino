@@ -5,7 +5,7 @@
 
 //wifi credentials
 const char* ssid      = "Highschoolish";
-const char* password  = "to be inserted..";
+const char* password  = "Raharuh1";
 
 //NTP server settings for time sync
 const char* ntpServer = "pool.ntp.org";
